@@ -1,0 +1,5 @@
+adafruit-blinka-bleio
+adafruit-circuitpython-ble
+black
+flake8
+isort
